@@ -3,7 +3,7 @@
 ## Overview of the analysis:
 This particular company is looking at employees who are ready to retire and needed assistance in locating those employees using tables that only had partial information. 
 
-## The purpose of the new analysis is well defined. (3 pt)
+## Purpose
 By combining and filtering data throughout the tables provided, employees ready to retire were summarized using 6 different tables as seen below. Each one having a connection to another through a variety of information. Using this information and combinging the nessecary data, the company is now able to see which employees are about to retire.  
 
 
